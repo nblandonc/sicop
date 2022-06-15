@@ -46,7 +46,7 @@ _Sigue las siguientes instrucciones para clonar el repositorio_
 _Clone el repositorio_
 
 ```
-git clone https://github.com/jorgehernandezch/Laravel-8-All.git
+git clone https://github.com/nblandonc/sicop.git
 ```
 
 _Instale todas las dependencias del Proyecto con_
