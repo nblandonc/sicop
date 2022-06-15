@@ -11,7 +11,7 @@
 
 ## Comenzando 🚀
 
-_Sigue las siguientes instrucciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE, sistema de Roles y Permisos con Spatie, Envio de Email, Verificación de Email y API con JWT Token en Laravel 8._
+_Sigue las siguientes instrucciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla Soft UI Dashboard, sistema de informacion con roles y CRM en Laravel 8._
 
 ### Pre-requisitos 📋
 
